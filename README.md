@@ -1,2 +1,14 @@
-# employee-management-system-java
-Advanced Java Employee Management System — A console-based Java application built using OOP, ArrayList, HashMap, File Handling, and Exception Handling. The system supports full CRUD operations, employee search, salary reporting, and file persistence using serialization. Designed with clean architecture and modular classes as part of an .
+# Employee Management System (Advanced)
+
+Console-based Java application built by Vasu Reddy.
+
+Features:
+- ArrayList & HashMap
+- CRUD Operations
+- File Persistence
+- Salary Reports
+- Exception-safe structure
+
+Run:
+1. Open in IntelliJ IDEA
+2. Run Main.java
